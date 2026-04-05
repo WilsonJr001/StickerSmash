@@ -38,6 +38,13 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Permita que o app acesse suas fotos.",
+          "savePhotosPermission": "Permita que o app salve fotos na sua galeria."
+        }
       ]
     ],
     "experiments": {
